@@ -1,0 +1,26 @@
+
+h1{
+  color:#FEFEFE;
+  font-size: 61px;
+  display: flex;
+  justify-content: center;
+
+}
+h2{
+
+  font-size: 19px;
+  display: flex;
+  justify-content: center;
+  
+}
+p{
+
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+
+}
+hr{
+  margin-top: 17px;
+  margin-bottom: 20px;
+}

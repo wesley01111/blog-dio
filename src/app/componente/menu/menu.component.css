@@ -1,0 +1,9 @@
+.menu ul{
+  display: flex;
+  flex-direction: row;
+ }
+ .menu ul li{
+
+  margin-left: 80px;
+  list-style: none;
+ }

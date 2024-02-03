@@ -1,0 +1,29 @@
+
+.hr{
+color: rgb(252, 252, 252);
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+hr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.small-card{
+  width: 500px;
+  height: 150px;
+  margin-right: 80px;
+}
+
+img{
+  min-width: 300px;
+  height: 150px;
+  margin-right:10px ;
+}
+
+h2{
+  font-size: 15px;
+}

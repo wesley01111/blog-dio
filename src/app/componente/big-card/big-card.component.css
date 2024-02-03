@@ -1,0 +1,22 @@
+
+.conteiner{
+  width: 600px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  
+
+}
+h1{
+  margin-top: 10px;
+
+}
+a{
+  font-size: 13px;
+
+}
+p{
+  margin-top: 10px;
+  color: #818181;
+  width: 600px
+}
