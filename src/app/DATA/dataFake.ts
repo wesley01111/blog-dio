@@ -1,0 +1,26 @@
+export const dataFake = [
+  {
+    "id":1,
+    "foto":"dd",
+    "titulo":"drgrgdg",
+    "noticia":"bzdz"
+  },
+  {
+    "id":2,
+    "foto":"dd",
+    "titulo":"drgrgdg",
+    "noticia":"bzdz"
+  },
+  {
+    "id":3,
+    "foto":"dd",
+    "titulo":"drgrgdg",
+    "noticia":"bzdz"
+  },
+  {
+    "id":4,
+    "foto":"dd",
+    "titulo":"drgrgdg",
+    "noticia":"bzdz"
+  }
+]

@@ -1,0 +1,33 @@
+.container{
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.foto {
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.titulo{
+  display: flex;
+  justify-content: center;
+
+
+
+}
+.noticia{
+  width: 800px;
+  margin-left: 200px;
+  margin-top: 20px;
+
+  margin-top: 20px;
+  }
+  .noticia{
+    color: grey;
+    display: flex;
+  justify-content: center;
+  }

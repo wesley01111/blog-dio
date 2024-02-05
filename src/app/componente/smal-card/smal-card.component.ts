@@ -10,4 +10,6 @@ export class SmalCardComponent {
   foto:string=""
   @Input()
   descricao:string=""
+  @Input()
+  id:string=""
 }
