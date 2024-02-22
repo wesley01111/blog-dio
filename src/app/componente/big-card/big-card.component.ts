@@ -13,5 +13,5 @@ titulo:string=""
 @Input()
 descricao:string=""
 @Input()
-id:string=""
+id:string="0"
 }
