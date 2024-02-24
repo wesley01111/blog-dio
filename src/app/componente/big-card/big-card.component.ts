@@ -15,6 +15,8 @@ export class BigCardComponent implements OnInit{
     sub_titulo:string =""
     @Input()
     noticia:string = ""
+    @Input()
+    id:string = "0"
 
   ngOnInit(): void {
 
