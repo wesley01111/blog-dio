@@ -15,8 +15,8 @@ export class ComtentComponent implements OnInit{
   titulo:string=''
   @Input()
   noticia:string=''
+  private id : string | null = '0'
 
-  private id:string | null ='0'
 
   constructor(
     private route:ActivatedRoute
@@ -26,6 +26,7 @@ export class ComtentComponent implements OnInit{
     this.route.paramMap.subscribe(value=>
       this.id = value.get("id")
     )
+    this.conteudoComponent(this.id)
   }
   conteudoComponent(id:string | null){
     const result = dataFake.filter(noticia => noticia.id == id)[0]
